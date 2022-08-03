@@ -1,0 +1,28 @@
+Init Go module
+Install gin
+Install Dotenv
+Install gorm
+Install Postgres
+Create Config folder 
+Create database config file
+Create Database Connection and Closing Function
+Create Entity folder
+Create entities(User & Book) with their struct
+Create Response Helper
+Create Controller (
+
+    Create Interface
+    Create private struct
+    Create Instance of private struct that returns pointer to private struct
+    Create methods on the private struct
+)
+
+Create DTO
+
+Create Service(
+    Create JWT Service
+)
+
+Create Middleware (
+    JWT Middleware
+)
